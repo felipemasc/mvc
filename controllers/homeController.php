@@ -10,7 +10,7 @@ class homeController{
 	}
 
 	public function teste(){
-		echo "Esse é um teste"
+		echo "Esse é um teste";
 	}
 	
 }
